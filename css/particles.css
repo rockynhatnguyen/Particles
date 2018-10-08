@@ -1,0 +1,33 @@
+#particles {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  background-color: #2d3436;
+}
+
+.no-padding {
+  padding: 0px 0px;
+}
+
+#hero {
+  z-index: -1;
+}
+
+.hero-items {
+  z-index: 1;
+}
+
+.nav_slide_button {
+  padding-top: 2rem;
+}
+
+.container-canvas {
+  height: 100vh;
+  width: 100vw;
+  position: absolute;
+  z-index: 0;
+}
+
+canvas {
+  height: 100%;
+  width: 100%;
+}

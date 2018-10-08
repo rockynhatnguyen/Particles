@@ -18,6 +18,7 @@
 
 .nav_slide_button {
   padding-top: 2rem;
+  z-index: 1;
 }
 
 .container-canvas {
